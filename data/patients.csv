@@ -1,0 +1,60 @@
+patient_id,first_name,last_name,date_of_birth,phone,email,preferred_doctor,insurance_carrier,insurance_member_id,insurance_group_number,last_visit,is_new_patient
+P1000,Dorothy,Lewis,2002-11-22,555-222-4281,dorothy.lewis@email.com,Dr. Sarah Johnson,Cigna,INS278756,GRP1363,2024-09-21,False
+P1001,Robert,Torres,2004-01-17,555-936-9976,robert.torres@email.com,Dr. Sarah Johnson,UnitedHealthcare,INS746224,GRP3058,2024-12-01,False
+P1002,Paul,Sanchez,2001-03-07,555-388-5853,paul.sanchez@email.com,Dr. Amit Patel,Cigna,INS348818,GRP1676,2025-05-25,False
+P1003,James,Williams,1947-03-08,555-507-2444,james.williams@email.com,Dr. Sarah Johnson,Cigna,INS924274,GRP3777,2024-09-26,True
+P1004,Laura,White,1956-11-16,555-826-8176,laura.white@email.com,Dr. Amit Patel,UnitedHealthcare,INS837723,GRP7451,2025-01-22,False
+P1005,John,Carter,2005-12-21,555-214-9027,john.carter@email.com,Dr. Amit Patel,Anthem,INS436833,GRP9961,2025-07-15,False
+P1006,Sharon,Walker,1947-02-12,555-920-8591,sharon.walker@email.com,Dr. Amit Patel,Molina Healthcare,INS567942,GRP2663,2024-11-04,False
+P1007,Carol,Davis,2004-03-17,555-452-9591,carol.davis@email.com,Dr. Sarah Johnson,Aetna,INS657068,GRP5510,2025-02-03,True
+P1008,Angela,Jones,1950-08-02,555-405-9641,angela.jones@email.com,Dr. Sarah Johnson,Medicaid,INS385727,GRP1363,2024-09-11,True
+P1009,Kevin,Hill,1971-08-30,555-195-3442,kevin.hill@email.com,Dr. Emily Carter,UnitedHealthcare,INS723745,GRP7039,2025-03-04,False
+P1010,Christopher,Brown,1974-12-14,555-424-4410,christopher.brown@email.com,Dr. Sarah Johnson,Aetna,INS212541,GRP9987,2025-02-11,True
+P1011,Michael,Lewis,1952-10-01,555-372-4039,michael.lewis@email.com,Dr. Emily Carter,Kaiser Permanente,INS905244,GRP6047,,False
+P1012,Ruth,Allen,2003-06-25,555-604-2454,ruth.allen@email.com,Dr. Emily Carter,Aetna,INS749381,GRP8465,,False
+P1013,Steven,Walker,1954-09-04,555-856-5106,steven.walker@email.com,Dr. Amit Patel,Anthem,INS472021,GRP1953,2025-03-09,False
+P1014,Amanda,Walker,1977-09-08,555-270-8771,amanda.walker@email.com,Dr. Sarah Johnson,Medicaid,INS981493,GRP6847,2025-04-24,False
+P1015,Donna,Torres,1990-08-19,555-720-6574,donna.torres@email.com,Dr. Emily Carter,Anthem,INS557756,GRP5665,2025-04-30,False
+P1016,Steven,Lewis,1958-03-13,555-427-9998,steven.lewis@email.com,Dr. Sarah Johnson,UnitedHealthcare,INS502557,GRP2709,,True
+P1017,Michelle,Rodriguez,1969-03-20,555-464-7313,michelle.rodriguez@email.com,Dr. Amit Patel,Aetna,INS581682,GRP6690,2025-04-10,False
+P1018,Lisa,Jackson,1958-09-02,555-513-5401,lisa.jackson@email.com,Dr. Amit Patel,Molina Healthcare,INS658540,GRP1248,,False
+P1019,James,Nguyen,2003-01-25,555-842-9347,james.nguyen@email.com,Dr. Sarah Johnson,Medicaid,INS920140,GRP6163,2025-08-22,False
+P1020,Sarah,Johnson,1950-12-31,555-454-3589,sarah.johnson@email.com,Dr. Amit Patel,Aetna,INS389481,GRP3782,,False
+P1021,Ashley,Roberts,1958-01-11,555-483-4946,ashley.roberts@email.com,Dr. Amit Patel,Medicaid,INS343617,GRP1808,,True
+P1022,Christopher,Lewis,1953-03-12,555-553-3740,christopher.lewis@email.com,Dr. Emily Carter,Medicare,INS615741,GRP4816,,False
+P1023,Kimberly,White,1979-08-12,555-490-4893,kimberly.white@email.com,Dr. Sarah Johnson,Aetna,INS233258,GRP3341,2025-01-03,False
+P1024,Emily,Ramirez,1949-09-17,555-890-2374,emily.ramirez@email.com,Dr. Amit Patel,Cigna,INS694024,GRP5620,2024-09-07,True
+P1025,Amy,Clark,1976-02-09,555-839-1416,amy.clark@email.com,Dr. Sarah Johnson,Molina Healthcare,INS790081,GRP3869,,False
+P1026,Sandra,Lewis,1974-11-15,555-621-4381,sandra.lewis@email.com,Dr. Emily Carter,Anthem,INS215352,GRP8758,2025-05-13,False
+P1027,Amy,Taylor,1948-02-26,555-395-6563,amy.taylor@email.com,Dr. Emily Carter,Medicaid,INS244002,GRP5235,2025-05-08,True
+P1028,Deborah,Williams,1975-05-25,555-127-6241,deborah.williams@email.com,Dr. Sarah Johnson,Aetna,INS358647,GRP1655,2025-07-25,False
+P1029,Helen,Roberts,1954-11-20,555-364-3847,helen.roberts@email.com,Dr. Amit Patel,Anthem,INS452893,GRP1705,2025-02-05,False
+P1030,David,Johnson,1979-08-09,555-760-9357,david.johnson@email.com,Dr. Sarah Johnson,Medicare,INS706697,GRP2443,,False
+P1031,Jennifer,Young,1978-04-28,555-210-9386,jennifer.young@email.com,Dr. Emily Carter,Anthem,INS823797,GRP7938,,True
+P1032,Matthew,Hill,1977-01-03,555-814-8921,matthew.hill@email.com,Dr. Sarah Johnson,Medicaid,INS716238,GRP1170,,False
+P1033,Kevin,Jones,1980-06-16,555-994-7418,kevin.jones@email.com,Dr. Emily Carter,Medicaid,INS814363,GRP4287,2025-03-01,True
+P1034,Kimberly,Perez,1989-12-23,555-591-6132,kimberly.perez@email.com,Dr. Emily Carter,Aetna,INS844766,GRP4544,2025-01-24,True
+P1035,Carol,Moore,1993-01-05,555-606-8278,carol.moore@email.com,Dr. Amit Patel,Anthem,INS728410,GRP9090,2025-01-15,False
+P1036,Sandra,Robinson,1973-01-08,555-464-7405,sandra.robinson@email.com,Dr. Emily Carter,Medicare,INS244925,GRP1239,,True
+P1037,Sarah,Jones,1967-05-12,555-152-8467,sarah.jones@email.com,Dr. Sarah Johnson,Molina Healthcare,INS414528,GRP7385,2024-09-11,False
+P1038,Robert,Johnson,2001-07-13,555-155-6177,robert.johnson@email.com,Dr. Amit Patel,Medicare,INS768647,GRP7165,2025-06-07,False
+P1039,Sarah,Hernandez,1971-08-05,555-316-6188,sarah.hernandez@email.com,Dr. Sarah Johnson,Humana,INS742069,GRP9471,2024-09-16,True
+P1040,Michelle,Hill,1972-08-11,555-112-9844,michelle.hill@email.com,Dr. Sarah Johnson,Medicare,INS556893,GRP8073,,False
+P1041,Jane,Lewis,1964-04-29,555-243-3956,jane.lewis@email.com,Dr. Emily Carter,Kaiser Permanente,INS121724,GRP2499,2024-11-08,False
+P1042,Mark,Perez,1977-01-26,555-964-1571,mark.perez@email.com,Dr. Amit Patel,UnitedHealthcare,INS354367,GRP6044,,False
+P1043,David,Green,1961-11-30,555-767-6404,david.green@email.com,Dr. Sarah Johnson,Medicaid,INS846883,GRP2634,2025-03-30,True
+P1044,Anthony,Hall,1995-07-01,555-231-3617,anthony.hall@email.com,Dr. Emily Carter,Aetna,INS360938,GRP1895,2025-06-23,False
+P1045,Matthew,Perez,1983-02-07,555-769-4754,matthew.perez@email.com,Dr. Amit Patel,Humana,INS167255,GRP9515,2024-10-11,False
+P1046,Edward,Ramirez,1959-09-26,555-203-8842,edward.ramirez@email.com,Dr. Amit Patel,Molina Healthcare,INS915435,GRP6980,2025-08-15,False
+P1047,Daniel,Clark,1965-01-30,555-691-1354,daniel.clark@email.com,Dr. Sarah Johnson,UnitedHealthcare,INS506143,GRP2591,,False
+P1048,Amy,White,1973-06-27,555-679-9910,amy.white@email.com,Dr. Amit Patel,Medicare,INS815166,GRP3031,2025-08-09,True
+P1049,Sandra,Mitchell,2001-12-16,555-508-7443,sandra.mitchell@email.com,Dr. Emily Carter,Medicare,INS358952,GRP8836,2025-09-02,False
+P1051,Sarath,Peddireddy,2004-01-26,8074326887,sarathpeddireddy93477@gmail.com,Dr. Sarah Johnson,Aetna,AET123456,GRP001,,True
+P1052,Amalesh,Poga,2004-02-25,8074326558,sarath2612004@gmail.com,Dr. Amit Patel,anerta,A123445,I34,,True
+P1053,Manoj,Raja,2004-05-12,9666457852,sarath2612004@gmail.com,Dr. Emily Carter,Blue Cross Blue Shield,ABC123456789,GRP002,,True
+P1054,Jaya,Peddi,2006-2-4,8074326884,sarathpeddireddy93477@gmail.com,Dr. Amit Patel,Blue,(76798,Gr022,,True
+P1055,Satwik,Poll,2006-02-01,8074566322,sarath2612004@gmail.com,Dr. Amit Patel,Blue sat,(87473,GR987,,True
+P1056,Konda,Peddi,2003-05-31,9666932548,sarath2612004@gmail.com,Dr. Emily Carter,yexx,76655,gr432,,True
+P1057,Raju,Koja,2006-05-25,8074326557,sarath2612004@gmail.com,Dr. Amit Patel,blue stock,87654,Gr43667,,True
+P1058,Sarath,Kumar,2004-01-26,8074326887,sarath2612004@gmail.com,Dr. Emily Carter,blue stock,876542,Gr4562,,True
+P1059,Sarath,Donu,2004-01-20,8074326654,sarath2612004@gmail.com,Dr. Emily Carter,blue stock,23345,gr3764,,True

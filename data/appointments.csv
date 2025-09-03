@@ -1,0 +1,11 @@
+appointment_id,patient_id,doctor_name,appointment_date,appointment_time,duration_minutes,appointment_type,status,created_at,insurance_carrier,insurance_member_id,insurance_group_number,phone,email
+APT1001,P1051,Dr. Sarah Johnson,2025-09-04,09:00,60,new_patient,confirmed,2025-09-03T11:57:33.362994,Aetna,AET123456,GRP001,8074326887,sarathpeddireddy93477@gmail.com
+APT1002,P1020,Dr. Sarah Johnson,2025-09-04,11:00,60,new_patient,confirmed,2025-09-03T12:25:43.439723,Aetna,INS389481,GRP3782,555-454-3589,sarah.johnson@email.com
+APT1003,P1052,Dr. Emily Carter,2025-09-04,09:00,60,new_patient,confirmed,2025-09-03T12:30:35.472224,anerta,A123445,I34,8074326558,sarath2612004@gmail.com
+APT1004,P1053,Dr. Amit Patel,2025-09-04,09:00,60,new_patient,confirmed,2025-09-03T12:33:47.396600,Blue Cross Blue Shield,ABC123456789,GRP002,9666457852,sarath2612004@gmail.com
+APT1005,P1054,Dr. Emily Carter,2025-09-04,11:00,60,new_patient,confirmed,2025-09-03T12:35:55.364547,Blue,(76798,Gr022,8074326884,sarathpeddireddy93477@gmail.com
+APT1006,P1055,Dr. Amit Patel,2025-09-04,11:00,60,new_patient,confirmed,2025-09-03T12:45:02.670943,Blue sat,(87473,GR987,8074566322,sarath2612004@gmail.com
+APT1007,P1056,Dr. Emily Carter,2025-09-04,14:00,60,new_patient,confirmed,2025-09-03T12:53:10.712584,yexx,76655,gr432,9666932548,sarath2612004@gmail.com
+APT1008,P1057,Dr. Emily Carter,2025-09-05,09:00,60,new_patient,confirmed,2025-09-03T12:58:51.892410,blue stock,87654,Gr43667,8074326557,sarath2612004@gmail.com
+APT1009,P1058,Dr. Amit Patel,2025-09-04,14:00,60,new_patient,confirmed,2025-09-03T13:05:39.110385,blue stock,876542,Gr4562,8074326887,sarath2612004@gmail.com
+APT1010,P1059,Dr. Amit Patel,2025-09-05,09:00,60,new_patient,confirmed,2025-09-03T13:26:36.832157,blue stock,23345,gr3764,8074326654,sarath2612004@gmail.com

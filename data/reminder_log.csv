@@ -1,0 +1,16 @@
+appointment_id,patient_id,reminder_type,sent_at,email_success,sms_success,response_received
+APT1001,P1051,confirmation,2025-09-03T12:26:33.779216,True,False,False
+APT1001,P1051,confirmation,2025-09-03T13:08:00.632948,True,False,False
+APT1002,P1020,confirmation,2025-09-03T13:08:05.035876,True,False,False
+APT1003,P1052,confirmation,2025-09-03T13:08:09.584234,True,False,False
+APT1004,P1053,confirmation,2025-09-03T13:08:14.455867,True,False,False
+APT1001,P1051,confirmation,2025-09-03T13:08:18.246019,True,False,False
+APT1005,P1054,confirmation,2025-09-03T13:08:19.282374,True,False,False
+APT1002,P1020,confirmation,2025-09-03T13:08:22.350459,True,False,False
+APT1006,P1055,confirmation,2025-09-03T13:08:23.678483,True,False,False
+APT1003,P1052,confirmation,2025-09-03T13:08:26.878524,True,False,False
+APT1007,P1056,confirmation,2025-09-03T13:08:28.517121,True,False,False
+APT1004,P1053,confirmation,2025-09-03T13:08:31.107568,True,False,False
+APT1005,P1054,confirmation,2025-09-03T13:08:36.005168,True,False,False
+APT1006,P1055,confirmation,2025-09-03T13:08:40.316407,True,False,False
+APT1007,P1056,confirmation,2025-09-03T13:08:44.460084,True,False,False
